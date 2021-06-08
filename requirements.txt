@@ -3,6 +3,6 @@ pandas==1.0.3
 numpy==1.18.1
 matplotlib
 seaborn==0.10.1
-pillow==7.2.0
+pillow==8.2.0
 base58
 lxml==4.5.2
